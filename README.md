@@ -1,27 +1,21 @@
-<h1 align="center">Hi 👋, I'm keshab Raj Adhikari</h1>
-<h3 align="center">A passionate IT Project management student from UAE</h3>
+# 👋 Hi, I'm Keshab Raj Adhikari
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=keshab-raja&label=Profile%20views&color=0e75b6&style=flat" alt="keshab-raja" /> </p>
+- 📍 United Arab Emirates
+- 🎓 Student of IT Project Management
+- 📧 Email: keshabraja3@gmail.com
+- 🖥️ GitHub: [Keshab-raja](https://github.com/Keshab-raja)
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=keshab-raja" alt="keshab-raja" /></a> </p>
+## 👨‍💻 About Me
+I'm passionate about technology and project management, currently pursuing my studies in IT Project Management. I enjoy learning new tools, collaborating on innovative solutions, and growing my technical and leadership skills.
 
-- 🌱 I’m currently learning **Python**
+## 🚀 Skills & Interests
+- IT Project Management
+- Team Collaboration
+- Technology Trends
 
-- 👯 I’m looking to collaborate on **IT Internship**
+## 📫 How to reach me
+Feel free to connect via email or check out my GitHub profile!
 
-- 🤝 I’m looking for help with **Internship**
+---
 
-- 📫 How to reach me **Keshabraja3@gmail.com**
-
-- ⚡ Fun fact **I want to learn more.**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=keshab-raja&show_icons=true&locale=en&layout=compact" alt="keshab-raja" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=keshab-raja&show_icons=true&locale=en" alt="keshab-raja" /></p>
+*This README is a work in progress. More info coming soon!*
