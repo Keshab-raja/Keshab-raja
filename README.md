@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Keshab Raj Adhikari
 
-- 📍 United Arab Emirates
+- 📍 Butwal,Nepal
 - 🎓 Student of IT Project Management
 - 📧 Email: keshabraja3@gmail.com
 - 🖥️ GitHub: [Keshab-raja](https://github.com/Keshab-raja)
